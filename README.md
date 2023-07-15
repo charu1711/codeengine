@@ -1,10 +1,10 @@
-# CodeLabs - A Search Engine Based on DSA Problems
+# CodeEngine - A Search Engine Based on DSA Problems
 
 [Visit](http://codeengine.us-east-1.elasticbeanstalk.com/)
 
 ## Description
 
-CodeLabs is a Search Engine where users can search for a DSA Problem. Even if a User makes a mistake while typing he/she can fetch appropriate top 6 results matching his/her request.
+CodeEngine is a Search Engine where users can search for a DSA Problem. Even if a User makes a mistake while typing he/she can fetch appropriate top 6 results matching his/her request.
 
 ## Features
 
