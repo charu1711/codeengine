@@ -32,4 +32,4 @@ efficient data structures to enhance search performance.
 
 ## Authors
 
-- [Charu Bansal](https://github.com/charu1711)
+- [Charu Bansal](https://www.linkedin.com/in/charu-bansal-68826b20a/)
