@@ -1,6 +1,6 @@
 # CodeEngine - A Search Engine Based on DSA Problems
 
-[Visit](http://codeengine.us-east-1.elasticbeanstalk.com/)
+[Visit](http://codeengine.ap-southeast-2.elasticbeanstalk.com/)
 
 ## Description
 
